@@ -1,0 +1,4 @@
+useReducer - used for state managements
+
+we can use useReducer when we have to update a state based on some other state.
+alway return a array having two value - state and the dispatch function(function used to sispatch a new action ie trigger an update of the state)
